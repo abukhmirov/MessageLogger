@@ -15,7 +15,5 @@ namespace MessageLogger
 
             CreatedAt = DateTime.Now;
         }
-
-       
     }
 }

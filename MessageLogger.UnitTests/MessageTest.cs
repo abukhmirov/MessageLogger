@@ -1,6 +1,6 @@
 namespace MessageLogger.UnitTests
 {
-    public class UnitTest1
+    public class MessageTest
     {
         [Fact]
         public void Message_Constructor_MessageIsCreatedWithCorrectContent()
